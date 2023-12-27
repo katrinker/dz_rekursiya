@@ -1,0 +1,14 @@
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\bin\Debug\net8.0\dz_rekursiya.exe
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\bin\Debug\net8.0\dz_rekursiya.deps.json
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\bin\Debug\net8.0\dz_rekursiya.runtimeconfig.json
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\bin\Debug\net8.0\dz_rekursiya.dll
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\bin\Debug\net8.0\dz_rekursiya.pdb
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\obj\Debug\net8.0\dz_rekursiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\obj\Debug\net8.0\dz_rekursiya.AssemblyInfoInputs.cache
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\obj\Debug\net8.0\dz_rekursiya.AssemblyInfo.cs
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\obj\Debug\net8.0\dz_rekursiya.csproj.CoreCompileInputs.cache
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\obj\Debug\net8.0\dz_rekursiya.dll
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\obj\Debug\net8.0\refint\dz_rekursiya.dll
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\obj\Debug\net8.0\dz_rekursiya.pdb
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\obj\Debug\net8.0\dz_rekursiya.genruntimeconfig.cache
+C:\Users\Катерина\Desktop\обучение\C#\dz_rekursiya\obj\Debug\net8.0\ref\dz_rekursiya.dll
